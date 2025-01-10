@@ -1,0 +1,8 @@
+mlx
+mlx-lm
+mlx-whisper
+f5-tts-mlx
+pyaudio
+simpleaudio
+langchain
+langchain-community
